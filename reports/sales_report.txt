@@ -1,0 +1,21 @@
+SALES PERFORMANCE REPORT
+==================================================
+
+Total Sales : $2,297,200.86
+Total Profit : $286,397.02
+Total Orders : 5009
+
+TOP REGION:
+Region
+West    725457.8245
+Name: Sales, dtype: float64
+
+TOP CUSTOMER:
+Customer Name
+Sean Miller    25043.05
+Name: Sales, dtype: float64
+
+TOP PRODUCT:
+Product Name
+Canon imageCLASS 2200 Advanced Copier    61599.824
+Name: Sales, dtype: float64
